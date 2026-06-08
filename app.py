@@ -18,7 +18,7 @@ from model_utils import get_model
 
 # ── Page config ───────────────────────────────────────────────
 st.set_page_config(
-    page_title = "Sentiment Analysis Engine",
+    page_title = "SentiSense — AI-Powered Sentiment Analysis Engine",
     page_icon  = "🎭",
     layout     = "wide",
     initial_sidebar_state = "expanded",
